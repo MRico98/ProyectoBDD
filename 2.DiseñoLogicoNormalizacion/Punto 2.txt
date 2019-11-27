@@ -1,0 +1,2 @@
+2. Elabore EL Diseño Lógico de la BD para el Sistema de Información del gimnasio “Zagros Sport” utilizando el procedimiento estudiado en la Unidad 4 (Aplicar el Proceso de Normalización para obtener el Modelo lógico con relaciones validadas hasta la 4FN).
+(3 Pts.)

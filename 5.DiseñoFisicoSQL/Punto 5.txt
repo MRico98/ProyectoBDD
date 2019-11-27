@@ -1,0 +1,2 @@
+5. Utilizando el Sistema Manejador de Bases de Datos seleccionado, Implemente el Diseño Físico de la Base de Datos del problema descrito (incluya las sentencias en el reporte).
+(5 Pts.)

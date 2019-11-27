@@ -1,0 +1,2 @@
+1. Elabore EL Diseño Lógico de la BD para el Sistema de Información del gimnasio “Zagros Sport” utilizando el procedimiento estudiado en la Unidad 3 (Modelo Conceptual con E/R y Reglas de Transformación para obtener el Modelo Lógico).
+(3 Pts.)

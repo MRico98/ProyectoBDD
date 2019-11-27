@@ -1,0 +1,2 @@
+4. Realice una investigación documental sobre 3 SMBD relacionales, y elabore un reporte indicando: datos de autoría, características y tabla comparativa. Seleccione (con argumentos) uno de dichos SMBD.
+(4 Pts.)

@@ -1,0 +1,2 @@
+6. Utilizando el Sistema Manejador de Bases de Datos seleccionado, capture un conjunto de tuplas relacionadas con la información que dicha BD mantiene (incluya un par de ejemplos de las sentencias utilizadas para la captura en el reporte).
+(4 Pts.)
