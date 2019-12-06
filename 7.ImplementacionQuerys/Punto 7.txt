@@ -1,9 +1,15 @@
 7. Utilizando el Sistema Manejador de Bases de Datos seleccionado, implemente el siguiente conjunto de consultas (incluya en el reporte, las sentencias utilizadas para las 7 solicitudes, así como capturas de pantalla de lo generado una vez ejecutados dichas consultas).
   - Obtener la relación de salas de que consta el GYM, con el detalle: Identificador, Ubicación, Tipo, metros cuadrados.  
+SELECT * FROM `sala`
   - Obtener la relación de aparatos adquiridos por el GYM con el detalle: Código, descripción, edo. Conservación.
+SELECT codigoAparato,descripAparato,estadoAparado FROM `aparato`
   - Obtener la relación de instructores que trabajan para el GYM, con el detalle: DNI, Nombre, Preparación.
+SELECT DNI,nombreMonitor,titulo FROM `monitor`
   - Obtener la relación de socios registrados al GYM, con el detalle: No. Socio, Nombre, Teléfono.
+SELECT numSocio,nombreSocio,telSocio FROM `socio`
   - Obtener la relación de clases programadas para la semana, con el detalle: No. Sala, Instructor, Descripción, Horario, Día.  
+SELECT numSala,nombreMonitor,descripClase,horaClase,diaClase FROM (`clase` JOIN `monitor`)
   - Obtener la relación de pistas reservadas para el fin de semana, con el detalle: Fecha, Hora, No. pista, No. Socio que realizó la reserva.
+
   -Agregue una consulta que considere requerida para el administrador del GYM (justifíquela).
 (7 Pts.)
